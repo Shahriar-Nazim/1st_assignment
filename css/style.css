@@ -29,6 +29,8 @@ a {
 
 /* main css start */
 
+/* --- Main Banner Part start */
+
 .introduction {
 
     width: 50%;
@@ -89,7 +91,9 @@ h1 {
     border-radius: 25px;
 }
 
-#recipe_part {
+/* Main Banner part End */
+
+#mission_part {
     background: #f6f6f6;
     text-align: center;
     margin-bottom: 50px;
@@ -117,34 +121,7 @@ h1 {
     width: 50%;
 }
 
-
-.opt_part {
-
-    box-shadow: 10px 10px 10px #f1f1f1;
-    border-radius: 20px;
-    margin: 50px 0;
-    width: 100%;
-    text-align: center;
-}
-
-.opt_part h2 {
-
-    font-size: 40px;
-    font-weight: 800;
-    margin: 20px 0;
-}
-
-.opt_part p {
-
-    padding-bottom: 50px;
-}
-
-.yt {
-
-    display: inline-block;
-    width: 30%;
-}
-
+/* Our Contact Part Start */
 
 #contact {
 
@@ -184,6 +161,8 @@ h1 {
     margin-right: 350px;
 }
 
+/* Our Contact Part End */
+
 footer {
 
     background: black;
@@ -205,3 +184,7 @@ footer span {
 
     color: orange;
 }
+
+
+
+/* Css End */
